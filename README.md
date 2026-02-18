@@ -18,6 +18,7 @@ The author provides no warranty and assumes no liability for any damage, misuse,
 
 ---
 
+## Pics
 
-## 3D preveiw
-👉 https://parsa-netp.github.io/Voron-But-Cheap/Render/render/Open.html
+![Front](Images/Front.jpg)
+![Front](Images/Top.jpg)
