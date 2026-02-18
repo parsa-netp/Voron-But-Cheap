@@ -20,4 +20,4 @@ The author provides no warranty and assumes no liability for any damage, misuse,
 
 
 ## 3D preveiw
-👉 https://github.com/parsa-netp/Voron-But-Cheap/tree/main/Render/render/Open.html
+👉 https://parsa-netp.github.io/Voron-But-Cheap/Render/render/Open.html
